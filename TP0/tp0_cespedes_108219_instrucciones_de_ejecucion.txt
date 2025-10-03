@@ -1,0 +1,11 @@
+En la carpeta del TP0, además de este informe se encuentra un archivo de texto y 5 archivos .py. 2 de ellos se corresponden con las soluciones propuestas, y uno de utilidades varias (limpiar pantalla, validaciones, imprimir datos, etc).
+
+Por otro lado, los últimos 2 archivos sirven para hacer pruebas:
+
+	* El archivo tp0_cespedes_108219_test_ejecucion_estandar.py ejecuta ambas soluciones para ciertos valores de n ya provistos, y luego genera un resumen con los tiempos de ejecución obtenidos.
+	* El archivo tp0_cespedes_108219_test_ejecucion_intensivo.py permite al usuario elegir:
+		* La solución que quiere ejecutar.
+		* El número de iteraciones que se desea realizar sobre dicha solución.
+		* El valor límite hasta el cual se debe ejecutar dicha solución.
+	* Al finalizar la ejecución del anterior programa, se genera un resumen de los resultados obtenidos. Si se elige un número de iteraciones mayor a 1, se mostrará también el tiempo de ejecución mínimo y el promedio, resultado de todas las ejecuciones. Para correr el TP0 se sugiere ejecutar este programa.
+	* ---Por si llegase a haber algún inconveniente con la ejecución del archivo anterior, se adiciona un .py en la carpeta TP0_UNICO_ARCHIVO, el archivo ejecutable en dicho directorio no requiere de ninguna dependencia entre archivos.---

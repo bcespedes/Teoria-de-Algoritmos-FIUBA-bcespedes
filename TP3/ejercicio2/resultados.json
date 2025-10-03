@@ -1,0 +1,122 @@
+[
+    {
+        "tamanio": 100000,
+        "semilla": 100000,
+        "ejecucion": 1,
+        "tiempo de ejecucion": 0.0012521743774414062,
+        "oferta seleccionada": 499981,
+        "mejor oferta": 499999
+    },
+    {
+        "tamanio": 100000,
+        "semilla": 100000,
+        "ejecucion": 2,
+        "tiempo de ejecucion": 0.0012433528900146484,
+        "oferta seleccionada": 499981,
+        "mejor oferta": 499999
+    },
+    {
+        "tamanio": 100000,
+        "semilla": 100000,
+        "ejecucion": 3,
+        "tiempo de ejecucion": 0.001255035400390625,
+        "oferta seleccionada": 499981,
+        "mejor oferta": 499999
+    },
+    {
+        "tamanio": 100000,
+        "semilla": 100000,
+        "ejecucion": 4,
+        "tiempo de ejecucion": 0.001241445541381836,
+        "oferta seleccionada": 499981,
+        "mejor oferta": 499999
+    },
+    {
+        "tamanio": 100000,
+        "semilla": 100000,
+        "ejecucion": 5,
+        "tiempo de ejecucion": 0.0012629032135009766,
+        "oferta seleccionada": 499981,
+        "mejor oferta": 499999
+    },
+    {
+        "tamanio": 250000,
+        "semilla": 250000,
+        "ejecucion": 1,
+        "tiempo de ejecucion": 0.004027366638183594,
+        "oferta seleccionada": 499999,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 250000,
+        "semilla": 250000,
+        "ejecucion": 2,
+        "tiempo de ejecucion": 0.004007101058959961,
+        "oferta seleccionada": 499999,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 250000,
+        "semilla": 250000,
+        "ejecucion": 3,
+        "tiempo de ejecucion": 0.004060029983520508,
+        "oferta seleccionada": 499999,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 250000,
+        "semilla": 250000,
+        "ejecucion": 4,
+        "tiempo de ejecucion": 0.004077434539794922,
+        "oferta seleccionada": 499999,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 250000,
+        "semilla": 250000,
+        "ejecucion": 5,
+        "tiempo de ejecucion": 0.004084587097167969,
+        "oferta seleccionada": 499999,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 500000,
+        "semilla": 500000,
+        "ejecucion": 1,
+        "tiempo de ejecucion": 0.007853984832763672,
+        "oferta seleccionada": 500000,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 500000,
+        "semilla": 500000,
+        "ejecucion": 2,
+        "tiempo de ejecucion": 0.007706880569458008,
+        "oferta seleccionada": 500000,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 500000,
+        "semilla": 500000,
+        "ejecucion": 3,
+        "tiempo de ejecucion": 0.007706165313720703,
+        "oferta seleccionada": 500000,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 500000,
+        "semilla": 500000,
+        "ejecucion": 4,
+        "tiempo de ejecucion": 0.00770258903503418,
+        "oferta seleccionada": 500000,
+        "mejor oferta": 500000
+    },
+    {
+        "tamanio": 500000,
+        "semilla": 500000,
+        "ejecucion": 5,
+        "tiempo de ejecucion": 0.007690906524658203,
+        "oferta seleccionada": 500000,
+        "mejor oferta": 500000
+    }
+]

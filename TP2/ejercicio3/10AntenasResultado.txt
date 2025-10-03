@@ -1,0 +1,63 @@
+Flujo total: 50
+tiempo en buscar la solucion: 0.001907722854614258
+Asignaciones de backups (antena A -> antena B):
+------------
+Antena1 -> Antena4
+Antena1 -> Antena5
+Antena1 -> Antena7
+Antena1 -> Antena8
+Antena1 -> Antena9
+------------
+Antena2 -> Antena3
+Antena2 -> Antena4
+Antena2 -> Antena5
+Antena2 -> Antena7
+Antena2 -> Antena8
+------------
+Antena3 -> Antena1
+Antena3 -> Antena2
+Antena3 -> Antena4
+Antena3 -> Antena5
+Antena3 -> Antena6
+------------
+Antena4 -> Antena1
+Antena4 -> Antena2
+Antena4 -> Antena3
+Antena4 -> Antena5
+Antena4 -> Antena6
+------------
+Antena5 -> Antena1
+Antena5 -> Antena2
+Antena5 -> Antena3
+Antena5 -> Antena4
+Antena5 -> Antena6
+------------
+Antena6 -> Antena3
+Antena6 -> Antena4
+Antena6 -> Antena5
+Antena6 -> Antena8
+Antena6 -> Antena9
+------------
+Antena7 -> Antena1
+Antena7 -> Antena2
+Antena7 -> Antena3
+Antena7 -> Antena4
+Antena7 -> Antena5
+------------
+Antena8 -> Antena1
+Antena8 -> Antena2
+Antena8 -> Antena4
+Antena8 -> Antena5
+Antena8 -> Antena6
+------------
+Antena9 -> Antena1
+Antena9 -> Antena2
+Antena9 -> Antena3
+Antena9 -> Antena6
+Antena9 -> Antena7
+------------
+Antena10 -> Antena1
+Antena10 -> Antena2
+Antena10 -> Antena3
+Antena10 -> Antena7
+Antena10 -> Antena8

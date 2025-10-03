@@ -1,0 +1,120 @@
+Lista de números disponibles: [49, 33, 32, 31, 27, 26, 23, 20, 17, 3].
+El valor más próximo al número 50 es 49.
+Se obtiene sumando los números de la siguiente lista: [49].
+
+
+
+Lista de números disponibles: [16, 16, 16, 15, 13, 9, 7, 4, 4, 3].
+El valor más próximo al número 18 es 16.
+Se obtiene sumando los números de la siguiente lista: [16].
+
+
+
+Lista de números disponibles: [7, 6, 5, 5, 4, 3, 3, 2, 2, 1].
+El valor más próximo al número 8 es 8.
+Se obtiene sumando los números de la siguiente lista: [7, 1].
+
+
+
+Lista de números disponibles: [30, 21, 20, 19, 19, 18, 16, 12, 5, 3].
+El valor más próximo al número 31 es 30.
+Se obtiene sumando los números de la siguiente lista: [30].
+
+
+
+Lista de números disponibles: [24, 16, 13, 13, 10, 5, 4, 3, 3, 1].
+El valor más próximo al número 31 es 30.
+Se obtiene sumando los números de la siguiente lista: [24, 5, 1].
+
+
+
+Lista de números disponibles: [68, 60, 48, 46, 33, 32, 21, 15, 7, 4].
+El valor más próximo al número 80 es 79.
+Se obtiene sumando los números de la siguiente lista: [68, 7, 4].
+
+
+
+Lista de números disponibles: [63, 61, 48, 41, 34, 19, 11, 5, 3, 1].
+El valor más próximo al número 74 es 74.
+Se obtiene sumando los números de la siguiente lista: [63, 11].
+
+
+
+Lista de números disponibles: [42, 38, 35, 26, 24, 10, 7, 5, 4, 4].
+El valor más próximo al número 42 es 42.
+Se obtiene sumando los números de la siguiente lista: [42].
+
+
+
+Lista de números disponibles: [26, 23, 13, 12, 8, 7, 5, 5, 3, 2].
+El valor más próximo al número 30 es 29.
+Se obtiene sumando los números de la siguiente lista: [26, 3].
+
+
+
+Lista de números disponibles: [56, 44, 40, 33, 24, 22, 18, 12, 9, 1].
+El valor más próximo al número 60 es 57.
+Se obtiene sumando los números de la siguiente lista: [56, 1].
+
+
+
+Lista de números disponibles: [74, 63, 62, 60, 55, 36, 27, 21, 5, 2].
+El valor más próximo al número 74 es 74.
+Se obtiene sumando los números de la siguiente lista: [74].
+
+
+
+Lista de números disponibles: [56, 55, 55, 50, 38, 36, 33, 30, 29, 13].
+El valor más próximo al número 58 es 56.
+Se obtiene sumando los números de la siguiente lista: [56].
+
+
+
+Lista de números disponibles: [43, 43, 34, 31, 25, 24, 23, 18, 10, 1].
+El valor más próximo al número 61 es 61.
+Se obtiene sumando los números de la siguiente lista: [43, 18].
+
+
+
+Lista de números disponibles: [19, 19, 15, 15, 14, 12, 12, 10, 9, 5].
+El valor más próximo al número 34 es 34.
+Se obtiene sumando los números de la siguiente lista: [19, 15].
+
+
+
+Lista de números disponibles: [13, 12, 12, 11, 10, 9, 5, 5, 5, 4].
+El valor más próximo al número 14 es 13.
+Se obtiene sumando los números de la siguiente lista: [13].
+
+
+
+Lista de números disponibles: [26, 24, 22, 17, 8, 6, 2, 2, 1, 1].
+El valor más próximo al número 27 es 27.
+Se obtiene sumando los números de la siguiente lista: [26, 1].
+
+
+
+Lista de números disponibles: [46, 43, 31, 31, 29, 27, 27, 19, 15, 1].
+El valor más próximo al número 47 es 47.
+Se obtiene sumando los números de la siguiente lista: [46, 1].
+
+
+
+Lista de números disponibles: [54, 50, 47, 39, 38, 36, 32, 23, 15, 4].
+El valor más próximo al número 67 es 58.
+Se obtiene sumando los números de la siguiente lista: [54, 4].
+
+
+
+Lista de números disponibles: [22, 21, 16, 16, 15, 11, 8, 7, 6, 4].
+El valor más próximo al número 24 es 22.
+Se obtiene sumando los números de la siguiente lista: [22].
+
+
+
+Lista de números disponibles: [75, 68, 67, 66, 51, 45, 38, 26, 16, 6].
+El valor más próximo al número 87 es 81.
+Se obtiene sumando los números de la siguiente lista: [75, 6].
+
+
+

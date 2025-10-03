@@ -1,0 +1,70 @@
+Set aleatorio número 1:
+
+Cadena generada aleatoriamente: RNvnAvOpyEVAoNGnVZQUqLUJy.
+Se han encontrado una cantidad mínima de 19 palíndromos.
+Dichos palíndromos son: R, NVN, A, V, O, P, Y, E, V, A, O, NGN, V, Z, QUQ, L, U, J, Y.
+
+
+Set aleatorio número 2:
+
+Cadena generada aleatoriamente: gSNnzxHPebRwNaxLlXUbbCWtl.
+Se han encontrado una cantidad mínima de 20 palíndromos.
+Dichos palíndromos son: G, S, NN, Z, X, H, P, E, B, R, W, N, A, XLLX, U, BB, C, W, T, L.
+
+
+Set aleatorio número 3:
+
+Cadena generada aleatoriamente: XXceRMIqFFEiwuLZXCxnbbyqt.
+Se han encontrado una cantidad mínima de 20 palíndromos.
+Dichos palíndromos son: XX, C, E, R, M, I, Q, FF, E, I, W, U, L, Z, XCX, N, BB, Y, Q, T.
+
+
+Set aleatorio número 4:
+
+Cadena generada aleatoriamente: mCtFGdaRnmZyRyHhHTBMIdNEp.
+Se han encontrado una cantidad mínima de 21 palíndromos.
+Dichos palíndromos son: M, C, T, F, G, D, A, R, N, M, Z, YRY, HHH, T, B, M, I, D, N, E, P.
+
+
+Set aleatorio número 5:
+
+Cadena generada aleatoriamente: mfuiduVPNlBoiflWRPPkqGMST.
+Se han encontrado una cantidad mínima de 24 palíndromos.
+Dichos palíndromos son: M, F, U, I, D, U, V, P, N, L, B, O, I, F, L, W, R, PP, K, Q, G, M, S, T.
+
+
+Set aleatorio número 6:
+
+Cadena generada aleatoriamente: GMPXMVbyXHUfymCDaloVNiPhG.
+Se han encontrado una cantidad mínima de 25 palíndromos.
+Dichos palíndromos son: G, M, P, X, M, V, B, Y, X, H, U, F, Y, M, C, D, A, L, O, V, N, I, P, H, G.
+
+
+Set aleatorio número 7:
+
+Cadena generada aleatoriamente: PQznaIyNtOoPLvBJkCPnPJRre.
+Se han encontrado una cantidad mínima de 21 palíndromos.
+Dichos palíndromos son: P, Q, Z, N, A, I, Y, N, T, OO, P, L, V, B, J, K, C, PNP, J, RR, E.
+
+
+Set aleatorio número 8:
+
+Cadena generada aleatoriamente: qhHdBtdAbwdewQglGXEuYcSph.
+Se han encontrado una cantidad mínima de 22 palíndromos.
+Dichos palíndromos son: Q, HH, D, B, T, D, A, B, W, D, E, W, Q, GLG, X, E, U, Y, C, S, P, H.
+
+
+Set aleatorio número 9:
+
+Cadena generada aleatoriamente: lYgKemZkHxxzjRembnvUtfnZd.
+Se han encontrado una cantidad mínima de 24 palíndromos.
+Dichos palíndromos son: L, Y, G, K, E, M, Z, K, H, XX, Z, J, R, E, M, B, N, V, U, T, F, N, Z, D.
+
+
+Set aleatorio número 10:
+
+Cadena generada aleatoriamente: ythTaAUeCGctKxLimfAWEOtMf.
+Se han encontrado una cantidad mínima de 20 palíndromos.
+Dichos palíndromos son: Y, THT, AA, U, E, CGC, T, K, X, L, I, M, F, A, W, E, O, T, M, F.
+
+

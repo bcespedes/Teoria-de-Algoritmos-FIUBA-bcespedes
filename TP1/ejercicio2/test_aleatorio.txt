@@ -1,0 +1,60 @@
+Set aleatorio número 1:
+
+Lista de distancias generada aleatoriamente: [6, 12, 12, 16, 24, 31, 37, 41, 48, 53].
+Lista de paradas en base a las distancias: [].
+
+
+Set aleatorio número 2:
+
+Lista de distancias generada aleatoriamente: [2, 3, 7, 8, 15, 22, 29, 35, 38, 39].
+Lista de paradas en base a las distancias: [7, 8, 15, 22, 29, 35].
+
+
+Set aleatorio número 3:
+
+Lista de distancias generada aleatoriamente: [0, 1, 2, 7, 9, 13, 17, 20, 20, 22].
+Lista de paradas en base a las distancias: [7, 13, 20].
+
+
+Set aleatorio número 4:
+
+Lista de distancias generada aleatoriamente: [3, 11, 13, 18, 25, 26, 26, 33, 37, 45].
+Lista de paradas en base a las distancias: [].
+
+
+Set aleatorio número 5:
+
+Lista de distancias generada aleatoriamente: [3, 7, 8, 14, 21, 23, 24, 25, 25, 31].
+Lista de paradas en base a las distancias: [7, 14, 21, 25].
+
+
+Set aleatorio número 6:
+
+Lista de distancias generada aleatoriamente: [4, 9, 17, 17, 24, 27, 27, 29, 30, 35].
+Lista de paradas en base a las distancias: [].
+
+
+Set aleatorio número 7:
+
+Lista de distancias generada aleatoriamente: [1, 8, 12, 12, 12, 14, 21, 26, 31, 31].
+Lista de paradas en base a las distancias: [1, 8, 14, 21, 26].
+
+
+Set aleatorio número 8:
+
+Lista de distancias generada aleatoriamente: [5, 7, 13, 13, 14, 22, 23, 28, 28, 36].
+Lista de paradas en base a las distancias: [].
+
+
+Set aleatorio número 9:
+
+Lista de distancias generada aleatoriamente: [3, 8, 14, 16, 19, 19, 20, 22, 25, 33].
+Lista de paradas en base a las distancias: [].
+
+
+Set aleatorio número 10:
+
+Lista de distancias generada aleatoriamente: [7, 12, 16, 18, 20, 20, 25, 33, 40, 41].
+Lista de paradas en base a las distancias: [].
+
+
